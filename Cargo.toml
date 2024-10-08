@@ -1,0 +1,6 @@
+[package]
+name = "this-wont-panic-your-mac-i-promise"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
